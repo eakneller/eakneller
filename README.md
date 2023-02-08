@@ -1,11 +1,6 @@
 ### 
-I leverage my expertise in geodynamics, 
-basin analysis, and energy exploration to drive informed 
-decision making. My proficiency in scientific 
-computing, including proficiency in Python, Julia and C++,
-allows me to effectively analyze and interpret complex 
-geological data, contributing to innovative solutions 
-in the energy industry."
+
+I am a highly skilled computational geoscientist with expertise in geodynamics, basin analysis and energy exploration. My primary scientific interests include the application of computational fluid dynamics to model non-linear visco-elasto plastic multiphase deformation in terrestrial planets, reconstructing the evolution of ancient geological systems and developing multidisciplinary computational approaches for evaluating the distribution of energy resources. With over 15 years of experience in developing high-performance applications using Python and C++, I have successfully led the development and application of multiple globally deployed computational tools used for scientific research and business decisions analysis in the energy industry. Additionally, I have interests in utilizing Numba and Julia for rapid high-performance prototype development for business decision support and the development of easy to extend and maintain scientific software.
 
 
 <!--
