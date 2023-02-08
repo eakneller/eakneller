@@ -9,7 +9,7 @@ multidisciplinary computational approaches for evaluating the distribution of en
 I have successfully led the development and application of multiple globally deployed computational 
 tools used for scientific research and business decisions analysis in the energy industry. 
 Additionally, I have interests in utilizing Numba and Julia for rapid high-performance prototype 
-development for business decision support and the development of easy to extend and maintain 
+development and the development of easy to extend and maintain 
 scientific software.
 
 
