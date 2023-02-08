@@ -1,5 +1,11 @@
 ### 
-As a geoscientist, I leverage my expertise in geodynamics, basin analysis, and energy exploration to drive informed decision making in the field. My proficiency in scientific computing, including proficiency in Python, Julia and C++, allows me to effectively analyze and interpret complex geological data, contributing to innovative solutions in the energy industry."
+As a geoscientist, I leverage my expertise in geodynamics, 
+basin analysis, and energy exploration to drive informed 
+decision making in the field. My proficiency in scientific 
+computing, including proficiency in Python, Julia and C++,
+allows me to effectively analyze and interpret complex 
+geological data, contributing to innovative solutions 
+in the energy industry."
 
 
 <!--
