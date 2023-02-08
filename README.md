@@ -1,5 +1,5 @@
 ### 
-As a geoscientist, I leverage my expertise in geodynamics, 
+I leverage my expertise in geodynamics, 
 basin analysis, and energy exploration to drive informed 
 decision making. My proficiency in scientific 
 computing, including proficiency in Python, Julia and C++,
