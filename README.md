@@ -6,7 +6,7 @@ fluid dynamics to model visco-elasto plastic multiphase deformation in terrestri
 planets, reconstructing the tectonic, stratigraphic and thermal history of sedimentary 
 basins and developing multidisciplinary approaches for assessing the distribution and economic 
 value of energy resources. With over 15 years of experience in developing high-performance 
-applications using Python and C++, I have successfully led the development and application 
+applications using Python, C++ and Julia, I have successfully led the development and application 
 of multiple globally deployed computational tools used for scientific research and business 
 decisions analysis in the energy industry.
 
